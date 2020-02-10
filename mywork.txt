@@ -1,2 +1,18 @@
 My asscoiate id:844572
-Others team members:
+Other team members:
+844505, 844504, 844555.
+Team lead:
+844555
+My Role in team:
+1. To develop contact page and response page implementation.
+My development files:
+ 1. contact.html
+ 2. thanks.html
+I was strong in:
+1. HTML
+2. Css
+3. Documentation
+4. javascript
+
+Feedback:
+1. Providing the information about basis of evaluation would be little helpful.
